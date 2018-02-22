@@ -35,12 +35,13 @@ ro.bluetooth.wipower=true
 camera.disable_zsl_mode=1
 persist.camera.cpp.duplication=false
 vidc.debug.perf.mode=2
-vidc.enc.dcvs.extra-buff-count=2persist.camera.zsl.mode=0
+vidc.enc.dcvs.extra-buff-count=2
 persist.camera.hal.debug.mask=0
 media.camera.ts.monotonic=1
 camera2.portability.force_api=1
 camera2.portability.force_api=1
 camera2.portability.force_api=1
+
 # Enable RAW support and camera modes
 ro.camcorder.videoModes=true
 persist.camera.raw.format=16
